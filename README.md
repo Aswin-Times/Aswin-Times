@@ -12,7 +12,7 @@
 
 - 🔭 Currently working on **Full Stack & AI Projects**
 - 🌱 Learning **Machine Learning, System Design & Cloud**
-- 💬 Ask me about **JavaScript, Python, Java, Spring Boot, C/C++**
+- 💬 Ask me about **JavaScript, TypeScript, Python, Java, Spring Boot, C/C++**
 - 📫 Reach me at my **[Gmail](mailto:aswin.r2511@gmail.com)**
 - ⚡ Fun fact: I love turning bold ideas into working products!
 
@@ -23,7 +23,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,spring,c,cpp,react,nodejs,express,git,github,vscode,linux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,spring,c,cpp" />
 </p>
 
 ---
